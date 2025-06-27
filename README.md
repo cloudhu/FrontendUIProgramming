@@ -1,9 +1,22 @@
 # FrontendUI
+# Develop Environment
 
-Copyright by Vince Petrelli. All rights reserved
+UE5.5.4 & Rider
+## Use Plugins
+- FlatNodes https://www.fab.com/ja/listings/7305134c-8f1c-46f4-aa9c-14381074aba5
+- CommonUI 
+________
 
-Developed with Unreal Engine 5.
+# Original Course
+Udemy：https://www.udemy.com/course/ureal-engine-5-cpp-advanced-frontend-ui-programming
 
-All licenses in this repository are copyrighted by their respective author Vince Petrelli.
+# Assets Source
+Copy From：https://github.com/vinceright3/FrontendUIProgramming
+________
 
-No code should be used commercially without fees or permission by the author Vince Petrelli. See `LICENSE` for details.
+# Declare
+- This Repo is only for learning!
+- Copyright by Vince Petrelli All rights reserved
+- All licenses in this repository are copyrighted by their respective author Vince Petrelli.
+- No code should be used commercially without fees or permission by the author Vince Petrelli. See LICENSE for details.
+
